@@ -1,0 +1,4378 @@
+WEBVTT
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/40-0
+00:01:52.519 --> 00:01:55.799
+Do we have everyone in the call
+from MTP?
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/51-0
+00:02:09.589 --> 00:02:13.089
+Yes, I think maybe in both said
+there.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/56-0
+00:02:14.499 --> 00:02:15.879
+If it is that.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/71-0
+00:02:16.839 --> 00:02:22.844
+OK, so Bono will be joining
+soon. So can we get started with
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/71-1
+00:02:22.844 --> 00:02:23.829
+the STS X?
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/79-0
+00:02:24.669 --> 00:02:27.459
+You know the open points Rahul
+and Michael.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/99-0
+00:02:28.829 --> 00:02:32.283
+OK. But that's in the interface
+STS ** so it doesn't really need
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/97-0
+00:02:31.599 --> 00:02:32.449
+Yeah, Andrew.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/99-1
+00:02:32.283 --> 00:02:33.399
+everyone on the call.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/118-0
+00:02:34.169 --> 00:02:38.911
+Ohh OK, because as we are
+waiting for banana, so if we can
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/106-0
+00:02:35.059 --> 00:02:35.869
+It's not.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/118-1
+00:02:38.911 --> 00:02:40.679
+get started with that.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/128-0
+00:02:43.129 --> 00:02:45.179
+Everyone, sorry for being late.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/127-0
+00:02:44.739 --> 00:02:45.119
+OK.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/131-0
+00:02:47.999 --> 00:02:48.749
+OK.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/133-0
+00:02:50.099 --> 00:02:50.519
+Ohh.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/156-0
+00:02:51.569 --> 00:02:55.706
+So maybe we can take that
+interface at the end. Michael,
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/167-0
+00:02:55.219 --> 00:02:57.924
+Yeah. Otherwise we can have a
+short meeting with a few people
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/156-1
+00:02:55.706 --> 00:02:56.649
+we can, yeah.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/164-0
+00:02:57.399 --> 00:02:57.649
+Yeah.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/166-0
+00:02:57.469 --> 00:02:57.659
+OK.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/167-1
+00:02:57.924 --> 00:02:58.099
+did.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/211-0
+00:02:59.939 --> 00:03:04.159
+Ohh actually hopefully this
+should be a short meeting. I
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/211-1
+00:03:04.159 --> 00:03:08.601
+we've already signed off our
+version 4 of the Custom FRS. I
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/211-2
+00:03:08.601 --> 00:03:13.339
+quickly just wanted to check in
+on the OQ scenario document and
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/211-3
+00:03:13.339 --> 00:03:17.485
+then the CPLD. So which one
+would we like to start with
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/211-4
+00:03:17.485 --> 00:03:17.929
+first?
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/220-0
+00:03:22.649 --> 00:03:25.529
+Ohh sorry, I'm gonna go wreck
+you something before.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/252-0
+00:03:28.669 --> 00:03:32.473
+But don't think for Iraqi sounds
+not on this call, but I know
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/252-1
+00:03:32.473 --> 00:03:36.339
+she's been looking at them. If
+anyone else wants to talk about
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/252-2
+00:03:36.339 --> 00:03:39.039
+focus scenarios, cause I guess
+some movies.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/262-0
+00:03:42.159 --> 00:03:45.669
+You know, we we don't call
+auction for this meeting, so.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/277-0
+00:03:47.389 --> 00:03:50.689
+We're going to proceed to
+project screen. Ohh you see it?
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/271-0
+00:03:48.389 --> 00:03:48.859
+OK.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/286-0
+00:03:50.179 --> 00:03:53.088
+From a business perspective,
+Kawasaki SAN is the okay
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/286-1
+00:03:53.088 --> 00:03:54.219
+scenario document OK.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/289-0
+00:03:54.859 --> 00:03:55.649
+Hmm yeah.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/293-0
+00:03:56.399 --> 00:03:57.809
+OKOK.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/304-0
+00:03:59.209 --> 00:04:02.849
+Um and Michael, I saw your mail
+regarding the.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/319-0
+00:04:03.699 --> 00:04:07.286
+The reporting rules, as well as
+the Northern Ireland license
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/319-1
+00:04:07.286 --> 00:04:08.109
+configuration.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/324-0
+00:04:08.619 --> 00:04:09.549
+Yeah, we're getting the.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/339-0
+00:04:09.979 --> 00:04:12.541
+I'm understanding that the
+system is correct, we just need
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/339-1
+00:04:12.541 --> 00:04:14.539
+to document it correctly in the
+CBD, correct?
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/340-0
+00:04:14.749 --> 00:04:15.299
+Exactly.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/342-0
+00:04:16.029 --> 00:04:16.229
+OK.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/372-0
+00:04:17.709 --> 00:04:21.973
+So we'll take care of that and
+hopefully post this. Can we
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/372-1
+00:04:21.973 --> 00:04:26.165
+presume that we can start the
+approval of CBD or is there
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/372-2
+00:04:26.165 --> 00:04:29.779
+something that you would like to
+discuss in that?
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/384-0
+00:04:31.089 --> 00:04:33.822
+We're still going through the
+comments and the feedback of the
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/384-1
+00:04:33.822 --> 00:04:34.169
+updates.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/386-0
+00:04:35.689 --> 00:04:36.099
+Okay.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/435-0
+00:04:38.049 --> 00:04:41.823
+So besides this, the only other
+thing that's going to be coming
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/435-1
+00:04:41.823 --> 00:04:45.479
+from our end today is going to
+be the PQ scenario document as
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/435-2
+00:04:45.479 --> 00:04:48.841
+well. So now that the UFR is
+versions and everything are
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/435-3
+00:04:48.841 --> 00:04:52.438
+final, we will be cleaning that
+up as well and sending it to
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/435-4
+00:04:52.438 --> 00:04:52.969
+everyone.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/453-0
+00:04:54.149 --> 00:04:57.501
+Any other comments or anything
+else that we d like to talk
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/453-1
+00:04:57.501 --> 00:05:00.909
+about? Streets. It's actually a
+short meeting from my side.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/464-0
+00:05:01.519 --> 00:05:04.559
+Impact assessment document is a
+new version of that coming.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/466-0
+00:05:06.179 --> 00:05:06.709
+Yes.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/468-0
+00:05:09.619 --> 00:05:10.079
+Next week.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/471-0
+00:05:10.989 --> 00:05:11.599
+Next week.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/497-0
+00:05:16.559 --> 00:05:20.523
+It will be early next week,
+Michael, but I don't see any
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/497-1
+00:05:20.523 --> 00:05:24.556
+major updates required for
+impact assessment. Is it right
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/493-0
+00:05:24.519 --> 00:05:24.699
+Ohh.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/497-2
+00:05:24.556 --> 00:05:27.199
+understanding? Ohh founder and
+Rahul.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/509-0
+00:05:29.729 --> 00:05:34.083
+Yes. Ohh my clean pack. From a
+business perspective I don't see
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/509-1
+00:05:34.083 --> 00:05:34.899
+any changes.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/562-0
+00:05:38.859 --> 00:05:42.543
+There are. There are just.
+There's just one this, this one
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/562-1
+00:05:42.543 --> 00:05:46.414
+trigger that we've disabled for
+the J21B population, which is
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/562-2
+00:05:46.414 --> 00:05:49.848
+working seamlessly now out of
+the box and therefore we
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/562-3
+00:05:49.848 --> 00:05:53.657
+wouldn't marked that as an out
+of the box requirement in the
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/562-4
+00:05:53.657 --> 00:05:57.403
+east to be document from a
+custom ufrs perspective. The new
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/562-5
+00:05:57.403 --> 00:05:59.089
+pre saves that we've added.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/576-0
+00:05:59.829 --> 00:06:02.466
+After modifying the field
+validations, that would also go
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/576-1
+00:06:02.466 --> 00:06:04.649
+into the field, the impact
+assessment document.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/606-0
+00:06:05.929 --> 00:06:09.464
+And of course, the the new
+things that we had for Taiwan
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/606-1
+00:06:09.464 --> 00:06:13.310
+Ft, so those are the 3 things
+that I'm anticipating should be
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/606-2
+00:06:13.310 --> 00:06:15.729
+updated in the impact
+assessment, but.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/610-0
+00:06:16.779 --> 00:06:17.879
+Really nothing else.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/625-0
+00:06:18.789 --> 00:06:21.752
+I think the interfaces section
+might need some update, given
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/625-1
+00:06:21.752 --> 00:06:23.549
+that we've discovered that like
+the.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/645-0
+00:06:24.799 --> 00:06:28.837
+The default sort order in Oracle
+19 C seems to behave differently
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/645-1
+00:06:28.837 --> 00:06:30.979
+to 12 C when these type of
+things.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/662-0
+00:06:36.949 --> 00:06:39.623
+Farrell knows the details of the
+issues. We sort of walked
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/662-1
+00:06:39.623 --> 00:06:42.387
+through on those interfaces, so
+probably need some update in
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/662-2
+00:06:42.387 --> 00:06:42.659
+there.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/668-0
+00:06:48.809 --> 00:06:50.399
+Rahul, if you are speaking,
+you're on mute.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/670-0
+00:06:50.459 --> 00:06:50.919
+Yeah.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/692-0
+00:06:51.679 --> 00:06:55.329
+You are Michael there certain,
+like a couple of issues that we
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/692-1
+00:06:55.329 --> 00:06:58.632
+have an independent that have to
+be included in practice
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/692-2
+00:06:58.632 --> 00:06:59.269
+assessment.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/696-0
+00:07:07.769 --> 00:07:08.549
+Like the one.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/698-0
+00:07:10.629 --> 00:07:11.549
+Where?
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/756-0
+00:07:13.259 --> 00:07:18.116
+They're better working in 812,
+but somehow due to some bug in 8
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/756-1
+00:07:18.116 --> 00:07:22.745
+or 4 system and they they are
+not performing the same thing.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/756-2
+00:07:22.745 --> 00:07:27.223
+So those will be included in
+impact assessment. Like if we
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/756-3
+00:07:27.223 --> 00:07:31.852
+consider J9, J, 10 for example
+for a genetic profile so that
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/740-0
+00:07:30.919 --> 00:07:31.209
+Yeah.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/756-4
+00:07:31.852 --> 00:07:36.405
+has to be included. We have
+noted that down while preparing
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/756-5
+00:07:36.405 --> 00:07:36.709
+SSX.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/759-0
+00:07:37.419 --> 00:07:37.639
+But.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/765-0
+00:07:37.429 --> 00:07:39.219
+So we'll have that included.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/778-0
+00:07:49.469 --> 00:07:53.255
+So ohh bounded. Do we need any
+confirmation? Clarification on
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/778-1
+00:07:53.255 --> 00:07:54.599
+comments of scenarios.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/822-0
+00:07:57.519 --> 00:08:01.568
+No, I actually just had one
+comment from neither San in the
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/822-1
+00:08:01.568 --> 00:08:05.888
+office scenario document which
+was that you know we should have
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/822-2
+00:08:05.888 --> 00:08:10.207
+a downgrade and a nullification
+scenarios and Nathan have added
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/822-3
+00:08:10.207 --> 00:08:14.459
+that in the PMD mfds OQ. I've
+added that scenario so that the.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/882-0
+00:08:15.219 --> 00:08:19.026
+You know the requirements that
+you're mentioning will be mapped
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/882-1
+00:08:19.026 --> 00:08:22.833
+over there. And Kawasaki San had
+also requested that when we're
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/882-2
+00:08:22.833 --> 00:08:26.759
+testing E2, BR 2 license partner
+import, we test do one test with
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/882-3
+00:08:26.759 --> 00:08:30.328
+a duct study because there's
+something that we also want to
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/882-4
+00:08:30.328 --> 00:08:34.076
+verify on the J side of things.
+And Kawasaki SANA have updated
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/882-5
+00:08:34.076 --> 00:08:34.849
+that as well.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/898-0
+00:08:35.829 --> 00:08:40.087
+So there's no comment that I've
+not accepted. All comments have
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/920-0
+00:08:39.939 --> 00:08:47.299
+Nice. I think I have added the 2
+comment in this moment and you
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/898-1
+00:08:40.087 --> 00:08:41.019
+been accepted.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/920-1
+00:08:47.299 --> 00:08:48.449
+could you.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/919-0
+00:08:47.949 --> 00:08:49.279
+Also new comments.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/922-0
+00:08:49.439 --> 00:08:50.209
+Yes.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/928-0
+00:08:51.039 --> 00:08:51.639
+For that.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/927-0
+00:08:51.349 --> 00:08:51.609
+OK.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/933-0
+00:08:51.859 --> 00:08:54.469
+Ohh I think I did scenario.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/943-0
+00:08:55.619 --> 00:08:57.829
+Was I using the customer vision
+before this?
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/950-0
+00:09:02.439 --> 00:09:03.829
+Let me have a look come.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/970-0
+00:09:19.519 --> 00:09:22.697
+Ohh, let me bring up my screen
+and cover service and maybe you
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/970-1
+00:09:22.697 --> 00:09:25.269
+can just tell me which comment
+we're referring to.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/975-0
+00:09:35.039 --> 00:09:35.529
+Are you?
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/984-0
+00:09:37.299 --> 00:09:38.939
+Is my screen visible for
+everyone?
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/991-0
+00:09:38.599 --> 00:09:41.809
+Ohh yes I can see your screen
+and.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/995-0
+00:09:43.369 --> 00:09:44.779
+If something like scenarios.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1006-0
+00:09:45.689 --> 00:09:50.049
+I don't have any description in
+come H just occasionally.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1009-0
+00:10:02.269 --> 00:10:02.599
+Yeah.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1011-0
+00:10:08.609 --> 00:10:08.879
+Well.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1013-0
+00:10:09.979 --> 00:10:10.539
+Ohh yes.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1057-0
+00:10:18.949 --> 00:10:23.876
+Ohh so being the only place we
+were actually not mentioned. The
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1057-1
+00:10:23.876 --> 00:10:28.726
+test cases are oq 6 onwards and
+that is because these oq who's
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1028-0
+00:10:24.959 --> 00:10:25.269
+Hmm.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1057-2
+00:10:28.726 --> 00:10:33.268
+are actually having multiple
+cases inside them, they don't
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1057-3
+00:10:33.268 --> 00:10:37.579
+have just one single case. For
+example to test out the.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1049-0
+00:10:33.519 --> 00:10:33.929
+Ohh.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1133-0
+00:10:38.409 --> 00:10:42.360
+The 4 saves because there are
+multiple post saves in the
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1133-1
+00:10:42.360 --> 00:10:46.519
+system and then we're also
+testing advanced auto labelling.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1133-2
+00:10:46.519 --> 00:10:50.956
+There are going to be 10 or 20
+cases inside this thing, so it's
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1086-0
+00:10:47.999 --> 00:10:48.689
+Ohh.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1133-3
+00:10:50.956 --> 00:10:55.323
+not possible for us to mention
+each kind of case and in in the
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1133-4
+00:10:55.323 --> 00:10:59.412
+example of post saves, it
+doesn't matter what kind of case
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1133-5
+00:10:59.412 --> 00:11:03.710
+it is, what we want to verify is
+that when the case is routed
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1133-6
+00:11:03.710 --> 00:11:08.146
+from X workflow to why workflow
+whatever post say was mentioned
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1133-7
+00:11:08.146 --> 00:11:08.909
+in the UFR.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1154-0
+00:11:09.899 --> 00:11:13.495
+That is getting tested or not
+both positively and negatively.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1154-1
+00:11:13.495 --> 00:11:17.149
+So for that reason only doesn't
+make sense to specify the test
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1154-2
+00:11:17.149 --> 00:11:18.019
+case over here.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1166-0
+00:11:19.309 --> 00:11:22.709
+I understood, but can you add
+some discussion so?
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1170-0
+00:11:23.579 --> 00:11:25.749
+Like like a multiple cases.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1179-0
+00:11:25.839 --> 00:11:29.319
+And my brother doesn't think.
+I'm not sure how to search.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1207-0
+00:11:33.469 --> 00:11:37.481
+That was like 10. Would it help
+if I can provide you the oki
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1207-1
+00:11:37.481 --> 00:11:41.690
+only the OK for this thing has
+been already authored. And Ryan,
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1207-2
+00:11:41.690 --> 00:11:44.189
+which is doing one final peer
+review.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1222-0
+00:11:45.189 --> 00:11:48.096
+If that is done, would it help
+if I provide you the entire okay
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1222-1
+00:11:48.096 --> 00:11:49.959
+only the data sheet has all the
+details.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1230-0
+00:11:51.899 --> 00:11:54.749
+Yeah, I just hope she had
+covered this.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1245-0
+00:11:55.939 --> 00:12:01.969
+This OQ scenario, the material
+should be voted upon one.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1255-0
+00:12:02.759 --> 00:12:05.069
+So I think.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1266-0
+00:12:03.569 --> 00:12:07.601
+Yes, but I checked internally
+it's not mandatory for us to
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1266-1
+00:12:07.601 --> 00:12:09.719
+specify the test case scenario.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1274-0
+00:12:10.859 --> 00:12:11.939
+For things like this.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1295-0
+00:12:10.919 --> 00:12:15.039
+Yeah. So, yeah, I'm I'm so
+please add some discussion that
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1295-1
+00:12:15.039 --> 00:12:19.020
+this this will will use
+multiplication or something like
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1295-2
+00:12:19.020 --> 00:12:19.369
+that.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1303-0
+00:12:22.139 --> 00:12:24.729
+So you're saying like a high
+level overview?
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1306-0
+00:12:24.629 --> 00:12:25.699
+Ohh yes, like that.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1324-0
+00:12:26.079 --> 00:12:29.249
+Just a statement to the fact
+that there are multiple cases.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1313-0
+00:12:26.089 --> 00:12:26.789
+Okay got it.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1327-0
+00:12:29.769 --> 00:12:30.679
+Sure. Got it.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1343-0
+00:12:48.559 --> 00:12:52.159
+Thanks 36 and 37 7 on it.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1359-0
+00:12:52.839 --> 00:12:57.291
+Got it. So for 36 and 37 both,
+I'll add a very high level
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1359-1
+00:12:57.291 --> 00:12:58.749
+overview over here.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1361-0
+00:13:02.019 --> 00:13:02.289
+Yeah.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1371-0
+00:13:02.899 --> 00:13:05.119
+OK. Anything else that was like,
+yeah.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1369-0
+00:13:03.719 --> 00:13:04.489
+Yes, that's fine.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1375-0
+00:13:05.859 --> 00:13:07.229
+Nothing for me. Thank you.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1378-0
+00:13:07.869 --> 00:13:08.329
+Thank you.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1387-0
+00:13:09.399 --> 00:13:11.979
+Any comments from Arakan on this
+open?
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1399-0
+00:13:13.149 --> 00:13:15.452
+Ohh Minoru San, I think they
+said that Iraq, Iran is not
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1399-1
+00:13:15.452 --> 00:13:16.179
+there on the call.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1402-0
+00:13:16.759 --> 00:13:17.169
+OK.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1403-0
+00:13:16.839 --> 00:13:17.339
+Must be.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1412-0
+00:13:18.069 --> 00:13:21.279
+Is there not one comment from
+her father I saw earlier?
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1414-0
+00:13:25.849 --> 00:13:26.229
+Ohh.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1422-0
+00:13:26.379 --> 00:13:29.119
+Not any new comment, Michael.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1431-0
+00:13:28.779 --> 00:13:31.757
+Ohh okay yeah, that's just one
+you've heard. You responded to
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1427-0
+00:13:30.609 --> 00:13:31.029
+Ohh.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1431-1
+00:13:31.757 --> 00:13:32.189
+that one.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1435-0
+00:13:32.699 --> 00:13:33.539
+I'm only meeting.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1437-0
+00:13:34.709 --> 00:13:34.909
+Ohh.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1453-0
+00:13:36.919 --> 00:13:39.552
+OK. Anyway, she's. She's still
+looking at the documents that
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1453-1
+00:13:39.552 --> 00:13:41.019
+she's got her open at the
+moment.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1458-0
+00:13:42.589 --> 00:13:43.419
+I didn't want.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1459-0
+00:13:42.819 --> 00:13:43.459
+So.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1476-0
+00:13:44.359 --> 00:13:47.410
+I'm sure she'll lose out the
+comments, so if if if they're
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1470-0
+00:13:45.989 --> 00:13:46.439
+Sure.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1475-0
+00:13:47.219 --> 00:13:47.489
+Yeah.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1476-1
+00:13:47.410 --> 00:13:47.669
+good.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1488-0
+00:13:48.839 --> 00:13:50.989
+OK, so I'll address this one.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1486-0
+00:13:49.219 --> 00:13:50.529
+So if visa.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1490-0
+00:13:51.479 --> 00:13:51.809
+Sorry.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1505-0
+00:13:52.909 --> 00:13:55.869
+If these are addressed, we are
+good to close this document.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1499-0
+00:13:53.399 --> 00:13:53.829
+Sudden.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1509-0
+00:13:56.759 --> 00:13:57.779
+You're almost there.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1511-0
+00:13:58.309 --> 00:13:58.589
+Yeah.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1521-0
+00:13:59.989 --> 00:14:02.299
+That's about the end of the day.
+We should be good on this.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1524-0
+00:14:03.069 --> 00:14:03.649
+Okay great.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1539-0
+00:14:04.929 --> 00:14:09.317
+So the next is scenario I think
+do we need any clarification
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1539-1
+00:14:09.317 --> 00:14:11.619
+bound on the PQ scenario? Sorry.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1541-0
+00:14:13.589 --> 00:14:14.079
+Hmm.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1545-0
+00:14:14.279 --> 00:14:15.149
+No, not at all.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1550-0
+00:14:16.329 --> 00:14:17.529
+We are go down that OK.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1564-0
+00:14:27.109 --> 00:14:31.412
+So Rahul, can we talk about that
+Taiwan issue, what we discussed
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1564-1
+00:14:31.412 --> 00:14:33.199
+along with Varna yesterday?
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1574-0
+00:14:42.009 --> 00:14:44.709
+Yes, my understand. Ohh I'll
+share my screen for that.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1587-0
+00:15:00.329 --> 00:15:02.119
+Like premium and you can see the
+screen.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1592-0
+00:15:12.849 --> 00:15:13.199
+Yes.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1596-0
+00:15:14.769 --> 00:15:15.409
+Yeah. Cancel.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1613-0
+00:15:18.009 --> 00:15:21.601
+Okay this is an older version of
+document, so that's why it's
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1613-1
+00:15:21.601 --> 00:15:23.049
+pending return over here.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1656-0
+00:15:23.779 --> 00:15:28.404
+Uh, it's regarding this point
+where we were discussing, like
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1656-1
+00:15:28.404 --> 00:15:33.104
+how the how the reports will
+mark the submitted in August. So
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1656-2
+00:15:33.104 --> 00:15:37.805
+basically as per our discussion
+with Brennan, we we sought to
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1656-3
+00:15:37.805 --> 00:15:42.582
+have 2 options for this while
+for marking report and submitted
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1656-4
+00:15:42.582 --> 00:15:42.809
+so.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1727-0
+00:15:43.329 --> 00:15:48.536
+Ohh as it was being done earlier
+that there was a job that was
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1727-1
+00:15:48.536 --> 00:15:53.081
+running twice a day like this
+job and it was basically
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1727-2
+00:15:53.081 --> 00:15:58.288
+converting the moving the files
+into zip file and then sending
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1727-3
+00:15:58.288 --> 00:16:03.329
+it to Taiwan authority. So as
+soon as the files are moved to
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1727-4
+00:16:03.329 --> 00:16:08.701
+zip file via custom procedure in
+August so then only the reports
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1715-0
+00:16:07.539 --> 00:16:07.799
+2.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1727-5
+00:16:08.701 --> 00:16:12.999
+are marked as submitted via
+backend process. OK so.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1750-0
+00:16:13.099 --> 00:16:18.350
+And now that that actually
+utility that that's not a custom
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1750-1
+00:16:18.350 --> 00:16:23.339
+one. So now that is taking care
+of zipping the files so.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1813-0
+00:16:24.129 --> 00:16:28.863
+Does the Penguin happen as soon
+as it's available in the
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1813-1
+00:16:28.863 --> 00:16:34.094
+location and it'll be it'll be
+moved to move it? It'll be sent
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1813-2
+00:16:34.094 --> 00:16:39.492
+to Taiwan where mail. OK, so now
+that the previous functionality
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1813-3
+00:16:39.492 --> 00:16:44.226
+is no longer working, so we
+won't be having the existing
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1813-4
+00:16:44.226 --> 00:16:49.125
+process of of submitting the
+files. So I'm back in process
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1813-5
+00:16:49.125 --> 00:16:53.859
+now either we can use an use the
+Oracle feature that is.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1866-0
+00:16:54.799 --> 00:16:59.740
+As soon as the the files are
+generated in the out folder, so
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1866-1
+00:16:59.740 --> 00:17:04.600
+it'll be updating the date
+submitted. Either that is one of
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1866-2
+00:17:04.600 --> 00:17:09.541
+the option or like or the other
+option is that that when the
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1866-3
+00:17:09.541 --> 00:17:14.563
+files were sent to files are
+sent to Taiwan and we'll get the
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1866-4
+00:17:14.563 --> 00:17:16.669
+mail from Taiwan SOOK and.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1915-0
+00:17:18.009 --> 00:17:21.529
+That'll be decompressed by X
+ray, and those acts will be used
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1915-1
+00:17:21.529 --> 00:17:24.879
+for populating the submission
+date in August. So these are
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1915-2
+00:17:24.879 --> 00:17:28.399
+basically the 2 options that we
+discussed with Vernon. So so,
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1915-3
+00:17:28.399 --> 00:17:31.920
+Michael, are we clear on this?
+Then we'll talk about the pros
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1915-4
+00:17:31.920 --> 00:17:33.339
+and cons of these things.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1922-0
+00:17:34.879 --> 00:17:36.689
+Yeah, I thought that we've
+already.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1928-0
+00:17:37.329 --> 00:17:38.489
+Decided on this nut.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1941-0
+00:17:39.709 --> 00:17:43.339
+The the ACT process will the the
+Act will be received from the.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1944-0
+00:17:44.149 --> 00:17:44.789
+And then that will.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1949-0
+00:17:46.099 --> 00:17:47.129
+Do the submission date.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1964-0
+00:17:46.819 --> 00:17:52.529
+So OK, so, so the act that will
+be sent by LS O right over mail.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1966-0
+00:17:52.289 --> 00:17:53.499
+Yes, yes, yes.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1991-0
+00:17:53.469 --> 00:17:58.261
+Thanks. So so Michael, there is
+a thing over there that if we
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1991-1
+00:17:58.261 --> 00:18:02.898
+are getting the end waiting for
+egg, so it it may not be an
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/1991-2
+00:18:02.898 --> 00:18:04.289
+immediate process.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2016-0
+00:18:05.539 --> 00:18:10.789
+Okay it may take a couple of
+days for that and that will be
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2016-1
+00:18:10.789 --> 00:18:15.514
+reflected late in the system.
+Even though the case is
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2016-2
+00:18:15.514 --> 00:18:18.139
+submitted at Taiwan's and but.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2064-0
+00:18:19.129 --> 00:18:22.962
+Then they'll be sending the
+mail. We don't know that exactly
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2064-1
+00:18:22.962 --> 00:18:26.794
+whether it will be 2 or 3 days
+when will be getting that act
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2064-2
+00:18:26.794 --> 00:18:30.815
+back and then only it will mark
+the system. So it'll already be
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2064-3
+00:18:30.815 --> 00:18:34.711
+a late date when the report was
+actually submitted in this in
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2064-4
+00:18:34.711 --> 00:18:35.339
+the FD is.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2083-0
+00:18:37.659 --> 00:18:42.265
+So that is the biggest phones in
+that because because of the late
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2083-1
+00:18:42.265 --> 00:18:44.289
+data available in the system.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2101-0
+00:18:47.909 --> 00:18:52.344
+So are we good with this having
+a late date updated in the
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2101-1
+00:18:52.344 --> 00:18:54.749
+system? If so then then it's OK.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2104-0
+00:19:01.179 --> 00:19:01.689
+No.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2129-0
+00:19:05.749 --> 00:19:10.076
+And the other option that we
+were talking about is that
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2129-1
+00:19:10.076 --> 00:19:15.021
+updating the date submitted as
+soon as the files are generated.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2129-2
+00:19:15.021 --> 00:19:15.639
+OK, the.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2205-0
+00:19:16.719 --> 00:19:20.968
+It's gone over. There is the
+negative thing that that is that
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2205-1
+00:19:20.968 --> 00:19:24.738
+when if even like, well, the
+reports will be marked as
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2205-2
+00:19:24.738 --> 00:19:28.987
+submitted as soon as the files
+are generated OK our file like
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2205-3
+00:19:28.987 --> 00:19:33.442
+files are sent so point is that
+if we are getting a negative act
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2205-4
+00:19:33.442 --> 00:19:37.691
+the user has to do that upgrade
+manually because the file has
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2187-0
+00:19:37.419 --> 00:19:37.819
+Yes.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2205-5
+00:19:37.691 --> 00:19:41.871
+already been submitted. So in
+case of negative back a manual
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2197-0
+00:19:40.369 --> 00:19:40.889
+Yeah.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2205-6
+00:19:41.871 --> 00:19:43.859
+process has to be taken care.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2211-0
+00:19:44.769 --> 00:19:45.799
+To handle these things.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2216-0
+00:19:46.279 --> 00:19:48.069
+Yeah, we want to avoid that.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2220-0
+00:19:48.909 --> 00:19:49.829
+We are right.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2224-0
+00:19:50.669 --> 00:19:51.219
+So.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2232-0
+00:19:50.859 --> 00:19:53.539
+OK, I understand the options.
+Let me think about that.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2235-0
+00:19:53.619 --> 00:19:54.229
+Young.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2265-0
+00:19:55.139 --> 00:19:59.419
+Show my God. So my girl can you?
+Can we have a decision now or
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2248-0
+00:19:56.329 --> 00:19:57.099
+Because like.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2265-1
+00:19:59.419 --> 00:20:03.019
+we'll discuss it internally and
+then get back to us.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2270-0
+00:20:03.079 --> 00:20:04.769
+Yes, I'm discuss it and get back
+to you.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2273-0
+00:20:05.769 --> 00:20:06.799
+So thank you.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2287-0
+00:20:17.609 --> 00:20:21.634
+Okay, Michael. So we just wanted
+to have a clarity on this, so
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2287-1
+00:20:21.634 --> 00:20:23.359
+that there will not be any.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2296-0
+00:20:25.629 --> 00:20:28.249
+Open items when we move forward
+to validation.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2298-0
+00:20:29.229 --> 00:20:29.939
+Yeah. Good.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2301-0
+00:20:32.819 --> 00:20:34.009
+OK.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2309-0
+00:20:34.189 --> 00:20:36.319
+Michael also have a very small
+update.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2329-0
+00:20:36.539 --> 00:20:40.662
+Hmm, it doesn't impact anything,
+but just so that you know, we
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2329-1
+00:20:40.662 --> 00:20:44.458
+can close the loop on it.
+Remember the bug that we had on
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2329-2
+00:20:44.458 --> 00:20:45.309
+event groups?
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2331-0
+00:20:45.929 --> 00:20:46.389
+Yes.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2344-0
+00:20:47.529 --> 00:20:52.089
+So, um, we went back into the
+system and we did a small POC.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2384-0
+00:20:52.809 --> 00:20:56.329
+The issue is there if by any
+chance you have an advanced
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2384-1
+00:20:56.329 --> 00:20:59.973
+condition in the system where
+you're referencing the event
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2384-2
+00:20:59.973 --> 00:21:03.679
+group ID. So if you have an
+advanced condition where you're
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2384-3
+00:21:03.679 --> 00:21:06.149
+saying you know LM even group
+equal to.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2393-0
+00:21:06.889 --> 00:21:09.149
+100,000, blah blah, blah blah
+blah.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2391-0
+00:21:08.399 --> 00:21:08.749
+Yeah.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2425-0
+00:21:09.939 --> 00:21:13.609
+That's when that bug is
+occurring. However, thankfully
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2402-0
+00:21:13.379 --> 00:21:13.969
+Ohh.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2425-1
+00:21:13.609 --> 00:21:18.012
+in the MD environment, because I
+did a small PC, I created a test
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2425-2
+00:21:18.012 --> 00:21:21.949
+reporting room and everything
+was working correctly in it.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2416-0
+00:21:18.059 --> 00:21:18.299
+Yeah.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2440-0
+00:21:23.379 --> 00:21:28.169
+The catch is if you create the
+advanced condition with the
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2440-1
+00:21:28.169 --> 00:21:29.549
+event group name.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2444-0
+00:21:30.379 --> 00:21:31.389
+Not the ID.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2449-0
+00:21:32.359 --> 00:21:33.689
+Then there is no issue.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2452-0
+00:21:34.379 --> 00:21:35.609
+OK, right.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2481-0
+00:21:36.689 --> 00:21:40.446
+So Raul's already done one
+sanity check in the system, and
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2481-1
+00:21:40.446 --> 00:21:44.395
+he's confirmed that there are no
+C that are pulling the event
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2481-2
+00:21:44.395 --> 00:21:48.534
+group ID. If you'd like to just
+cross verify something from your
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2481-3
+00:21:48.534 --> 00:21:48.789
+end.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2504-0
+00:21:49.869 --> 00:21:53.447
+Please feel free to do so, but
+for our understanding then we
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2504-1
+00:21:53.447 --> 00:21:56.731
+will say that for the MTP
+system, there's no impact for
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2504-2
+00:21:56.731 --> 00:21:57.259
+this bug.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2512-0
+00:21:58.479 --> 00:22:00.819
+OK, sure. Will double check on
+it. Thank you for the
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2512-1
+00:22:00.819 --> 00:22:01.349
+explanation.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2514-0
+00:22:02.309 --> 00:22:02.579
+Thank you.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2522-0
+00:22:09.799 --> 00:22:12.719
+Wanna do? We need any discussion
+on CBD?
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2526-0
+00:22:13.469 --> 00:22:14.299
+Open items.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2567-0
+00:22:16.589 --> 00:22:19.840
+I would say yes if we if we are
+at a stage where we've gone
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2567-1
+00:22:19.840 --> 00:22:23.308
+through the entire CD and there
+are any review comments that we
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2567-2
+00:22:23.308 --> 00:22:26.667
+can close and discuss. But I
+have a feeling that maybe MTP is
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2567-3
+00:22:26.667 --> 00:22:29.755
+just reviewing everything right
+now. Is my understanding
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2564-0
+00:22:29.179 --> 00:22:29.459
+Yeah.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2567-4
+00:22:29.755 --> 00:22:30.189
+correct?
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2585-0
+00:22:31.849 --> 00:22:34.502
+I'm definitely still reviewing
+things I don't know if anyone
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2585-1
+00:22:34.502 --> 00:22:37.199
+else has any specific points on
+the CBD they want to discuss.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2592-0
+00:22:37.829 --> 00:22:39.339
+It's not as fun or comparison.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2599-0
+00:22:42.849 --> 00:22:44.939
+I don't have any special
+guidance.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2602-0
+00:22:45.879 --> 00:22:46.359
+No.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2614-0
+00:22:47.439 --> 00:22:50.099
+OK, so we'll keep reviewing why
+you know.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2613-0
+00:22:49.689 --> 00:22:50.129
+You can.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2634-0
+00:22:51.169 --> 00:22:54.310
+Perhaps when orders on what we
+can do is if we if we get a
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2634-1
+00:22:54.310 --> 00:22:57.079
+collated list of all the review
+comments by Monday.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2639-0
+00:22:57.799 --> 00:22:57.929
+The.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2658-0
+00:22:57.849 --> 00:23:01.252
+There's something that we can't
+address. Maybe we can just
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2658-1
+00:23:01.252 --> 00:23:04.771
+utilise half an hour of our
+Monday meeting, the last half an
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2658-2
+00:23:04.771 --> 00:23:05.059
+hour.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2661-0
+00:23:06.109 --> 00:23:06.699
+Yeah, sure.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2663-0
+00:23:07.359 --> 00:23:08.019
+Sure.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2676-0
+00:23:16.539 --> 00:23:20.997
+OK. Any other points of
+discussion related to you know
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2676-1
+00:23:20.997 --> 00:23:23.509
+the any of the topics on Argus?
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2684-0
+00:23:26.849 --> 00:23:29.579
+Not one of them. Sorry, Pikachu,
+*** ****.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2687-0
+00:23:29.849 --> 00:23:31.389
+You must.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2691-0
+00:23:32.949 --> 00:23:34.179
+Yeah, that is yes.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2710-0
+00:23:34.869 --> 00:23:37.010
+I thought some speak you
+tomorrow will be sent today,
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2704-0
+00:23:35.179 --> 00:23:36.059
+Thank you. Thank you.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2710-1
+00:23:37.010 --> 00:23:37.169
+yes.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2715-0
+00:23:37.569 --> 00:23:37.949
+Thank you.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2723-0
+00:23:37.849 --> 00:23:40.419
+I think it's only we have to
+address your comment and send it
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2723-1
+00:23:40.419 --> 00:23:40.709
+across.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2731-0
+00:23:41.509 --> 00:23:44.709
+And cross verify the with the
+latest year for us.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2734-0
+00:23:46.459 --> 00:23:46.779
+Thank you.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2750-0
+00:23:51.179 --> 00:23:54.179
+I don't know if anyone saw it. I
+sent an email earlier. The
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2750-1
+00:23:54.179 --> 00:23:56.179
+interchange service doesn't seem
+to be.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2753-0
+00:23:57.219 --> 00:23:58.429
+Transmitting files.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2761-0
+00:23:59.879 --> 00:24:01.419
+If someone could have a quick
+look at that.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2773-0
+00:24:02.339 --> 00:24:04.889
+Be helpful trying trying to test
+this to one stuff.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2769-0
+00:24:02.729 --> 00:24:03.949
+Yeah, yeah.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2780-0
+00:24:06.039 --> 00:24:06.889
+Preferably before.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2784-0
+00:24:06.319 --> 00:24:07.919
+Yes. Can you have a look into
+it?
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2790-0
+00:24:14.299 --> 00:24:15.709
+I'll ask cash to look into it.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2811-0
+00:24:16.049 --> 00:24:18.294
+Okay, if we can get it fixed
+before 4:00 PM, it would be
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2811-1
+00:24:18.294 --> 00:24:20.579
+because that's when the tie want
+stuff needs to transmit.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2810-0
+00:24:20.539 --> 00:24:20.769
+Yeah.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2815-0
+00:24:23.749 --> 00:24:24.149
+Thank you.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2819-0
+00:24:23.789 --> 00:24:25.219
+Show my lovely check this out.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2829-0
+00:24:32.799 --> 00:24:36.949
+Ohh Kazakhstan has sent a bit
+mail earlier.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2832-0
+00:24:38.809 --> 00:24:39.299
+Only one.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2844-0
+00:24:40.789 --> 00:24:44.847
+Psnt all, each of the document
+as a list, so I'm just checking
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2844-1
+00:24:44.847 --> 00:24:45.169
+that.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2849-0
+00:24:48.349 --> 00:24:49.579
+I'm sharing that document.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2853-0
+00:24:56.709 --> 00:24:57.539
+Can you see my screen?
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2855-0
+00:24:58.919 --> 00:24:59.229
+Is.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2870-0
+00:25:05.599 --> 00:25:08.662
+Yeah. Impact assessment we have
+touched upon, we will share
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2870-1
+00:25:08.662 --> 00:25:09.479
+early next week.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2882-0
+00:25:10.219 --> 00:25:13.559
+LOL, CBD. Once we review by end
+of day today.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2891-0
+00:25:14.279 --> 00:25:16.559
+Another we can discuss on Monday
+meeting.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2903-0
+00:25:17.819 --> 00:25:21.168
+OK, you scenario we have
+discussed picky scenario. We
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2903-1
+00:25:21.168 --> 00:25:22.409
+will send it across.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2914-0
+00:25:23.529 --> 00:25:27.219
+Speak your script. Yes, this has
+to be changed. I will update it.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2921-0
+00:25:28.839 --> 00:25:33.389
+So on the work you script as
+soon as.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2941-0
+00:25:34.179 --> 00:25:38.095
+You know, as mentioned by Bona,
+we have completed another few of
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2941-1
+00:25:38.095 --> 00:25:41.529
+them with the dry run and final
+verification is ongoing.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2958-0
+00:25:42.379 --> 00:25:46.507
+So as soon as you know the done
+reviews, we will start sending
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2958-1
+00:25:46.507 --> 00:25:48.079
+one by one. Ohh so that.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2969-0
+00:25:49.259 --> 00:25:52.543
+You don't have to wait for all
+the Wookie scripts to be
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2969-1
+00:25:52.543 --> 00:25:53.129
+completed.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2971-0
+00:25:58.329 --> 00:25:58.959
+Exactly.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2979-0
+00:26:01.699 --> 00:26:04.489
+Take your script will I know the
+come later?
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/2987-0
+00:26:06.779 --> 00:26:10.419
+Argos, you are still reviewing
+it, if I'm right.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3000-0
+00:26:11.129 --> 00:26:15.801
+August 86. We're waiting for
+IKEA to add the the move it
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3000-1
+00:26:15.801 --> 00:26:16.539
+appendix.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3005-0
+00:26:21.429 --> 00:26:22.979
+Let me check on that it.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3018-0
+00:26:25.689 --> 00:26:28.399
+We shall is there, let me speak
+to him and confirm that.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3025-0
+00:26:29.839 --> 00:26:31.049
+Interface ssx.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3021-0
+00:26:30.049 --> 00:26:30.259
+And.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3031-0
+00:26:31.839 --> 00:26:34.129
+Sorry, we'll discuss after this.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3033-0
+00:26:34.619 --> 00:26:34.799
+Yeah.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3035-0
+00:26:35.449 --> 00:26:36.249
+Ohh.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3037-0
+00:26:39.179 --> 00:26:39.719
+Test blood.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3040-0
+00:26:39.779 --> 00:26:40.499
+OK. Yeah.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3045-0
+00:26:41.799 --> 00:26:43.689
+Tvq separate. I'll not.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3049-0
+00:26:44.719 --> 00:26:45.459
+Discuss here.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3056-0
+00:26:46.939 --> 00:26:47.879
+You PVQ.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3067-0
+00:26:47.959 --> 00:26:50.989
+And I just like some just one
+comment remaining.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3065-0
+00:26:48.979 --> 00:26:49.789
+A DSX.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3084-0
+00:26:54.029 --> 00:26:57.486
+Let me speak to Connor on this
+afternoon, the impact a
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3084-1
+00:26:57.486 --> 00:27:01.256
+suspended, it's only on the TL
+incremental El there and the
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3084-2
+00:27:01.256 --> 00:27:02.639
+conclusion is pending.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3088-0
+00:27:03.729 --> 00:27:04.969
+And the the.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3094-0
+00:27:05.049 --> 00:27:08.619
+And a few other things in the
+email.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3105-0
+00:27:09.319 --> 00:27:11.889
+From the the comments from the
+URS that.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3128-0
+00:27:13.119 --> 00:27:15.703
+Like commented in their replies
+that they were gonna be include
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3128-1
+00:27:15.703 --> 00:27:17.923
+the stuff in the impact
+assessment. They haven't. They
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3127-0
+00:27:17.139 --> 00:27:18.399
+Yeah, yeah, yeah.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3128-2
+00:27:17.923 --> 00:27:18.569
+haven't done it.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3143-0
+00:27:19.419 --> 00:27:22.882
+And we will showcase that along
+with the demo. That's what we
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3143-1
+00:27:22.882 --> 00:27:23.999
+discussed yesterday.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3146-0
+00:27:24.499 --> 00:27:24.839
+Okay.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3155-0
+00:27:27.329 --> 00:27:28.189
+Can we see on Monday?
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3154-0
+00:27:27.839 --> 00:27:28.069
+Maybe.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3157-0
+00:27:28.819 --> 00:27:29.119
+Yeah.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3168-0
+00:27:30.079 --> 00:27:34.559
+Bq CBD, I believe you are
+reviewing it now.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3178-0
+00:27:35.699 --> 00:27:38.650
+We have, but there's a lot of
+things that we've requested that
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3178-1
+00:27:38.650 --> 00:27:39.259
+haven't been.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3182-0
+00:27:39.879 --> 00:27:40.829
+Provided yet.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3197-0
+00:27:41.529 --> 00:27:44.738
+Sometimes, like comments from
+the IKEA team saying to be
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3197-1
+00:27:44.738 --> 00:27:46.539
+revisited completely this sheet.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3213-0
+00:27:49.259 --> 00:27:52.969
+I think there are 6 or 7 sheets
+which, yeah.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3217-0
+00:27:50.479 --> 00:27:53.859
+My something here, Mr Trump
+said. A list of them.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3223-0
+00:27:54.979 --> 00:27:57.889
+Where with reviewed and I think.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3240-0
+00:27:58.859 --> 00:28:01.366
+But I shan't sent an email
+saying we've completed our
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3240-1
+00:28:01.366 --> 00:28:03.269
+review, but there's those 6 or 7
+sheets.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3243-0
+00:28:04.189 --> 00:28:05.859
+Still missing.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3246-0
+00:28:08.709 --> 00:28:09.129
+Yeah.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3249-0
+00:28:08.789 --> 00:28:09.219
+Ohh no.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3256-0
+00:28:09.819 --> 00:28:11.549
+The blue coloured sheets, if I'm
+right.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3261-0
+00:28:12.109 --> 00:28:13.169
+Something like that, yeah.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3270-0
+00:28:13.229 --> 00:28:16.879
+Yeah, there are 70 plus sheets
+in the CBD.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3280-0
+00:28:17.469 --> 00:28:19.769
+We have lots of coloured tabs in
+many documents.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3301-0
+00:28:22.029 --> 00:28:28.381
+I I will check that the PVQ test
+plan. OK so we can start looking
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3301-1
+00:28:28.381 --> 00:28:29.729
+into it, yeah.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3299-0
+00:28:28.649 --> 00:28:29.189
+Looking at.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3307-0
+00:28:31.759 --> 00:28:33.199
+Sure, this is understood.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3322-0
+00:28:34.569 --> 00:28:37.279
+Pick your sweet like you said.
+No, we talked about yesterday.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3321-0
+00:28:36.899 --> 00:28:37.219
+Yeah.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3324-0
+00:28:38.009 --> 00:28:38.449
+Yes.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3326-0
+00:28:39.789 --> 00:28:40.319
+Schedule.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3328-0
+00:28:40.729 --> 00:28:40.969
+Yeah.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3340-0
+00:28:42.369 --> 00:28:46.749
+OK, so that's another some of
+the key points.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3352-0
+00:28:47.669 --> 00:28:50.611
+So if no other points, you know
+that we can switch over to
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3352-1
+00:28:50.611 --> 00:28:51.309
+interface SSX.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3359-0
+00:28:52.709 --> 00:28:54.169
+And we can ask, you know?
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3363-0
+00:28:54.969 --> 00:28:55.929
+The people who are.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3366-0
+00:28:56.879 --> 00:28:57.739
+Not interested.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3371-0
+00:28:57.889 --> 00:29:00.029
+Not interested can drop.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3373-0
+00:29:03.629 --> 00:29:03.949
+Thank you.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3378-0
+00:29:06.049 --> 00:29:06.479
+Because.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3384-0
+00:29:06.059 --> 00:29:08.089
+Anyone has any points? Yeah,
+sorry.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3394-0
+00:29:08.029 --> 00:29:10.669
+Anything else before we switch
+over the interface document?
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3416-0
+00:29:13.639 --> 00:29:18.365
+Ohh no sorry it to sorry
+Japanese. Ohh no macaroni still
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3416-1
+00:29:18.365 --> 00:29:20.189
+kickin estimate today.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3450-0
+00:29:20.179 --> 00:29:24.786
+Yes, yes, yes, yes, yes, yes,
+yes, OK that this is what I
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3424-0
+00:29:20.609 --> 00:29:21.639
+Thinking about hi.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3429-0
+00:29:23.309 --> 00:29:23.609
+Hey.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3450-1
+00:29:24.786 --> 00:29:28.519
+wanted to discuss. Somehow slip
+my mind. Yeah.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3437-0
+00:29:24.789 --> 00:29:25.239
+Thank you.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3452-0
+00:29:28.359 --> 00:29:29.359
+Yes, yes, send.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3461-0
+00:29:30.019 --> 00:29:32.599
+OK, so bahana, yeah, that is so.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3459-0
+00:29:31.089 --> 00:29:31.389
+And.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3465-0
+00:29:32.739 --> 00:29:33.369
+Ohh go ahead.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3466-0
+00:29:33.309 --> 00:29:33.489
+Ohh.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3480-0
+00:29:34.659 --> 00:29:38.229
+The estimation what we had
+discussed in a day back, yeah.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3481-0
+00:29:37.009 --> 00:29:38.579
+Yes, yes, yes.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3516-0
+00:29:39.579 --> 00:29:46.777
+Ohh, so basically Kawasaki SAN
+and Nathan we need 2 users per
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3516-1
+00:29:46.777 --> 00:29:54.092
+user group for PQ execution, 7
+days, 7 PQ. We need 2 users per
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3516-2
+00:29:54.092 --> 00:29:55.369
+user group.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3534-0
+00:30:01.169 --> 00:30:04.803
+So all the active user groups we
+have in the system, we will need
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3534-1
+00:30:04.803 --> 00:30:06.069
+2 users per user group.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3558-0
+00:30:14.979 --> 00:30:21.251
+Above, there's no problem if,
+for example, one user has book
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3540-0
+00:30:14.989 --> 00:30:15.629
+It doesn't work.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3558-1
+00:30:21.251 --> 00:30:22.999
+in data entry QC.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3561-0
+00:30:23.679 --> 00:30:25.389
+Rolls together.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3592-0
+00:30:26.119 --> 00:30:30.201
+Yeah, yeah, that's not an issue
+at all. If if that is a normal
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3592-1
+00:30:30.201 --> 00:30:34.219
+business practice, please feel
+free to have that user be part
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3577-0
+00:30:31.229 --> 00:30:31.629
+Yes.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3592-2
+00:30:34.219 --> 00:30:37.459
+of the pqq execution. In fact,
+it's a good thing.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3594-0
+00:30:38.829 --> 00:30:39.089
+Yeah.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3640-0
+00:30:38.989 --> 00:30:42.554
+Because it will save a lot of
+logging and then logout steps.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3640-1
+00:30:42.554 --> 00:30:45.944
+Although we will have that
+documented in because we don't
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3640-2
+00:30:45.944 --> 00:30:49.567
+know what kind of loser will be
+there. So we will have log in
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3640-3
+00:30:49.567 --> 00:30:53.249
+and logout documented on every
+you know workflow state change.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3640-4
+00:30:53.249 --> 00:30:57.048
+However if the person is of the
+same user group, that's an added
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3640-5
+00:30:57.048 --> 00:30:57.399
+bonus.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3658-0
+00:30:58.439 --> 00:31:02.592
+And the only reason we're asking
+for 2 users, Michael and
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3658-1
+00:31:02.592 --> 00:31:06.889
+Kazakhstan is some of these
+cases, especially PQ one and 2.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3727-0
+00:31:07.749 --> 00:31:11.619
+We are expecting bigger 12 and
+the EMA import, we're expecting
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3727-1
+00:31:11.619 --> 00:31:15.243
+that it would be processed by
+the global first and then it
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3727-2
+00:31:15.243 --> 00:31:19.297
+will be coming to the Japan team
+for that reason. And that reason
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3727-3
+00:31:19.297 --> 00:31:22.921
+only we're requesting for 2
+years 2 users because we don't
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3727-4
+00:31:22.921 --> 00:31:26.852
+want to be short on time as such
+a target is one PQ executed in
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3727-5
+00:31:26.852 --> 00:31:30.599
+one entirety, but because some
+cases will be changing hands.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3769-0
+00:31:31.729 --> 00:31:35.877
+We think that maybe some BQ
+might be executed in 2 days
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3769-1
+00:31:35.877 --> 00:31:40.544
+because day one, they might be
+executed by the global Team Day
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3769-2
+00:31:40.544 --> 00:31:45.433
+2, they might be executed by the
+local team and for that Reason 2
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3769-3
+00:31:45.433 --> 00:31:46.989
+users per user group.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3780-0
+00:31:51.459 --> 00:31:53.019
+Alright, cause I can send you an
+assistant.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3788-0
+00:32:07.279 --> 00:32:08.289
+I can't hear you.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3791-0
+00:32:10.319 --> 00:32:10.909
+So.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3815-0
+00:32:12.199 --> 00:32:17.064
+We don't have to have individual
+users per user group. We can, as
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3815-1
+00:32:17.064 --> 00:32:21.634
+we discussed internally one one
+user can be along to multiple
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3806-0
+00:32:18.619 --> 00:32:18.849
+Yeah.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3815-2
+00:32:21.634 --> 00:32:22.519
+user groups.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3818-0
+00:32:23.029 --> 00:32:23.329
+The.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3820-0
+00:32:23.899 --> 00:32:24.239
+Hmm.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3829-0
+00:32:24.589 --> 00:32:27.129
+The script will mention to
+logout and log in.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3833-0
+00:32:27.939 --> 00:32:28.319
+Yeah.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3841-0
+00:32:28.079 --> 00:32:33.249
+But the the user can just press,
+take pass and move on.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3843-0
+00:32:34.019 --> 00:32:34.339
+Hmm.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3913-0
+00:32:35.169 --> 00:32:39.394
+Ohh password not applicable.
+Conversely sign and they can
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3849-0
+00:32:35.409 --> 00:32:35.949
+If I have.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3913-1
+00:32:39.394 --> 00:32:43.546
+move on. We just have one
+request though. Whosoever does
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3913-2
+00:32:43.546 --> 00:32:48.136
+the PQ dry run should be doing
+the PQ actual execution as well
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3913-3
+00:32:48.136 --> 00:32:52.579
+because you know if they have
+any questions. If they want to
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3913-4
+00:32:52.579 --> 00:32:57.314
+understand something new in the
+84 system, let that cycle happen
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3913-5
+00:32:57.314 --> 00:33:01.758
+during the PQ dry run phase
+where we still have some time to
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3913-6
+00:33:01.758 --> 00:33:05.619
+answer those questions and fix
+things. If we have a.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3943-0
+00:33:05.979 --> 00:33:09.252
+A different user doing the PQ
+dry run and then we have a
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3943-1
+00:33:09.252 --> 00:33:12.812
+different user doing the actual
+PQ execution. That's where we
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3943-2
+00:33:12.812 --> 00:33:14.649
+will start having some problems.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3964-0
+00:33:16.079 --> 00:33:21.479
+You know we have we are planning
+to assign same size as the
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3964-1
+00:33:21.479 --> 00:33:24.269
+driver and actually discussion.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3966-0
+00:33:24.749 --> 00:33:25.609
+Omar limitation.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3975-0
+00:33:24.889 --> 00:33:27.819
+That would be perfect. Thank you
+so much, Kawasaki, man.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3981-0
+00:33:28.499 --> 00:33:29.909
+But not yet decided.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3983-0
+00:33:31.109 --> 00:33:31.449
+Yeah.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/3997-0
+00:33:42.989 --> 00:33:46.999
+So we will have 7 days for PQ
+execution connection, so we.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4008-0
+00:33:48.209 --> 00:33:52.377
+With that, you know we have to
+keep that in mind to for Peaky
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4008-1
+00:33:52.377 --> 00:33:53.049
+execution.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4011-0
+00:33:53.929 --> 00:33:54.469
+Members.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4013-0
+00:33:55.979 --> 00:33:56.369
+Yeah.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4034-0
+00:33:57.779 --> 00:34:01.591
+And in the in the plan, how much
+scope have you got for any
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4034-1
+00:34:01.591 --> 00:34:05.149
+reruns? I know we shouldn't have
+them, but they happen.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4037-0
+00:34:06.449 --> 00:34:06.779
+You.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4049-0
+00:34:08.029 --> 00:34:11.189
+We should never do as much as
+possible, but yeah.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4050-0
+00:34:11.429 --> 00:34:11.739
+You.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4052-0
+00:34:12.939 --> 00:34:13.409
+Ohh.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4058-0
+00:34:17.629 --> 00:34:19.159
+We have only 2 days for reason.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4061-0
+00:34:20.509 --> 00:34:21.359
+OK. Ohh.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4087-0
+00:34:22.759 --> 00:34:25.817
+You see issues happen early on
+in the PQ. Then you know things
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4087-1
+00:34:25.817 --> 00:34:28.972
+can be done in parallel and see
+if they happened towards the end
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4077-0
+00:34:26.029 --> 00:34:26.279
+Yeah.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4087-2
+00:34:28.972 --> 00:34:29.749
+and get problem.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4089-0
+00:34:31.469 --> 00:34:31.819
+OK.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4094-0
+00:34:32.829 --> 00:34:33.519
+Keep it in mind.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4100-0
+00:34:33.029 --> 00:34:35.459
+Costs. Yeah, now onwards, I
+mean.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4114-0
+00:34:36.749 --> 00:34:40.818
+The timeline is very tight on
+the scripts we have to conform
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4114-1
+00:34:40.818 --> 00:34:41.619
+and move on.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4116-0
+00:34:42.519 --> 00:34:42.919
+Quickly.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4118-0
+00:34:43.839 --> 00:34:44.089
+Yeah.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4121-0
+00:34:54.949 --> 00:34:55.289
+OK.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4132-0
+00:34:57.359 --> 00:35:00.179
+So ohh sorry. Yeah. Any other
+points by anyone?
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4145-0
+00:35:00.869 --> 00:35:06.779
+Ohh sorry, I'm signed with
+regard to the event group.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4166-0
+00:35:08.369 --> 00:35:13.969
+Cause I'm not concerned we have
+some ISIS referring bgd.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4157-0
+00:35:08.379 --> 00:35:09.149
+Yes, coming second.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4175-0
+00:35:19.989 --> 00:35:21.959
+I share my screen just a moment
+please.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4177-0
+00:35:21.749 --> 00:35:21.989
+Ohh.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4179-0
+00:35:24.599 --> 00:35:24.889
+Okay.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4183-0
+00:35:25.959 --> 00:35:27.309
+Which you might just joke.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4185-0
+00:35:29.679 --> 00:35:30.079
+Yes.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4231-0
+00:35:33.979 --> 00:35:38.360
+Ohh this this one is OK because
+after EGID it's looking at Event
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4195-0
+00:35:36.339 --> 00:35:36.929
+Ohh it's one.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4231-1
+00:35:38.360 --> 00:35:42.674
+Group name in the clause. After
+that it's looking at even group
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4208-0
+00:35:41.199 --> 00:35:41.829
+Yeah.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4231-2
+00:35:42.674 --> 00:35:47.123
+name. The problem is coming when
+it's looking at what event group
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4231-3
+00:35:47.123 --> 00:35:50.089
+ID equal to. Then like a hard
+coded number.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4239-0
+00:35:50.529 --> 00:35:52.659
+Down with it. So let's see.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4246-0
+00:35:53.969 --> 00:35:56.429
+Tell you something. Here she
+goes.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4253-0
+00:36:01.999 --> 00:36:03.129
+You know some big spine.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4252-0
+00:36:02.639 --> 00:36:02.859
+Ohh.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4256-0
+00:36:05.369 --> 00:36:05.629
+Good.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4260-0
+00:36:06.959 --> 00:36:07.329
+Thank you.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4272-0
+00:36:32.929 --> 00:36:33.829
+I think you're sexy.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4280-0
+00:36:35.079 --> 00:36:36.249
+OK, I have time.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4281-0
+00:36:35.079 --> 00:36:36.489
+All right, all over to you.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4307-0
+00:36:44.459 --> 00:36:47.842
+OK, so let's move on to the
+interface SSX document and if
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4307-1
+00:36:47.842 --> 00:36:50.991
+anyone on the call is not
+interested in the interface
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4307-2
+00:36:50.991 --> 00:36:53.499
+document, feel free to drop from
+the call.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4310-0
+00:36:54.469 --> 00:36:54.899
+Thank you.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4314-0
+00:36:58.849 --> 00:36:59.779
+Thank you everyone.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4318-0
+00:37:03.579 --> 00:37:04.739
+I'll share my screen.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4328-0
+00:37:17.959 --> 00:37:19.629
+Yeah, sure. You can see that
+now.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4353-0
+00:37:22.189 --> 00:37:26.827
+So there were certain comments
+initially on which we will be
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4353-1
+00:37:26.827 --> 00:37:31.466
+updating at the time when when
+the document is final and the
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4353-2
+00:37:31.466 --> 00:37:33.899
+indexing needs to be done again.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4355-0
+00:37:34.909 --> 00:37:35.239
+Okay.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4370-0
+00:37:35.619 --> 00:37:40.327
+Ohh morning there were couple of
+requirement. OK US all that you
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4370-1
+00:37:40.327 --> 00:37:41.269
+have also do.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4382-0
+00:37:42.089 --> 00:37:46.243
+I saw that there were certain
+things Michael for upgrading
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4382-1
+00:37:46.243 --> 00:37:47.229
+this one also.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4393-0
+00:37:48.119 --> 00:37:51.019
+There are couple of requirements
+that really wanted to talk
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4393-1
+00:37:51.019 --> 00:37:51.309
+about.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4395-0
+00:37:52.199 --> 00:37:52.519
+Yeah.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4404-0
+00:37:58.979 --> 00:38:01.399
+Then you more than that first.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4446-0
+00:38:02.519 --> 00:38:07.415
+Okay so one is this in this
+requirement. OK, so what's
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4446-1
+00:38:07.415 --> 00:38:12.846
+happening is that the IT the
+requirement is asking that drug
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4446-2
+00:38:12.846 --> 00:38:18.454
+result should be populated as
+not reported if the event if the
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4446-3
+00:38:18.454 --> 00:38:24.063
+incoming file doesn't contain
+causality. So I have checked the
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4446-4
+00:38:24.063 --> 00:38:24.419
+the.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4472-0
+00:38:24.499 --> 00:38:29.587
+The incoming file that so it's
+regarding the issue number 180
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4472-1
+00:38:29.587 --> 00:38:33.609
+basically that you reported
+earlier. OK, so the.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4463-0
+00:38:30.569 --> 00:38:31.389
+Yeah.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4471-0
+00:38:32.459 --> 00:38:33.369
+Ohh farm maybe?
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4477-0
+00:38:35.279 --> 00:38:36.619
+Sorry, sorry Michael.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4484-0
+00:38:37.129 --> 00:38:39.119
+Before a foreign measures
+report.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4486-0
+00:38:40.019 --> 00:38:40.489
+Yes.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4512-0
+00:38:41.449 --> 00:38:44.839
+So in that case, what was
+happening is that there were
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4512-1
+00:38:44.839 --> 00:38:48.785
+only drug result mentioned, drug
+reaction, relatedness block is
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4512-2
+00:38:48.785 --> 00:38:50.449
+not at all present in that.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4563-0
+00:38:51.469 --> 00:38:56.548
+Okay, I'm more aware like I have
+checked many of the other cases
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4563-1
+00:38:56.548 --> 00:39:01.236
+in production, I prepared a
+query to check what all was the
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4563-2
+00:39:01.236 --> 00:39:05.690
+behaviour in the production
+environment also and for the
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4563-3
+00:39:05.690 --> 00:39:10.613
+similar situation where there is
+no drug reaction, relatedness
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4563-4
+00:39:10.613 --> 00:39:15.379
+block event assessment, that tab
+has no data at all because.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4583-0
+00:39:16.049 --> 00:39:20.179
+When does that if, if we have
+drug reaction lateness, then
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4583-1
+00:39:20.179 --> 00:39:23.119
+only it'll be populating data
+based upon.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4630-0
+00:39:23.519 --> 00:39:27.770
+Ohh and based upon whatever was
+the was the input and it will be
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4630-1
+00:39:27.770 --> 00:39:31.759
+updating that in the case now if
+it doesn't have any data it
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4630-2
+00:39:31.759 --> 00:39:35.683
+won't be reading any value. In
+order to manipulate that and
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4630-3
+00:39:35.683 --> 00:39:39.346
+update update that event
+assessment because there is no
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4630-4
+00:39:39.346 --> 00:39:42.289
+mapping available between
+product and event.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4642-0
+00:39:43.029 --> 00:39:47.639
+So that is the reason that this
+wasn't getting populated.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4675-0
+00:39:50.609 --> 00:39:55.063
+So that is the reason, Michael,
+that this this is not operated
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4675-1
+00:39:55.063 --> 00:39:59.164
+at the time when we don't have
+any data and drug reaction
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4675-2
+00:39:59.164 --> 00:40:03.405
+returns block. If you allow me
+I'll I'll show you the final
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4675-3
+00:40:03.405 --> 00:40:03.759
+also.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4744-0
+00:40:23.249 --> 00:40:27.254
+3 over here there is no such
+data in the drug law or drug
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4744-1
+00:40:27.254 --> 00:40:31.812
+reaction redness. Ideally, if we
+see any XML file for product and
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4744-2
+00:40:31.812 --> 00:40:36.093
+event mapping, we have a drug
+reaction lateness blog based on
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4744-3
+00:40:36.093 --> 00:40:40.444
+that only drug result data is
+like Argos gets to know where to
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4744-4
+00:40:40.444 --> 00:40:44.863
+complete drug, drug relatedness
+data and based upon the mapping
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4744-5
+00:40:44.863 --> 00:40:46.659
+between event and product.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4767-0
+00:40:47.729 --> 00:40:50.802
+So in this situation we have
+checked in the production
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4767-1
+00:40:50.802 --> 00:40:54.042
+environment that identified
+various cases. If you want, I
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4767-2
+00:40:54.042 --> 00:40:56.109
+can and I can show you that as
+well.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4795-0
+00:40:56.669 --> 00:41:02.080
+Ohh, so now that that's the
+situation over here that August,
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4795-1
+00:41:02.080 --> 00:41:07.490
+can't read that block. And if it
+can't read that block it it
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4795-2
+00:41:07.490 --> 00:41:09.619
+doesn't update anything.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4820-0
+00:41:10.449 --> 00:41:14.052
+And and causality one because
+there is no such mapping
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4820-1
+00:41:14.052 --> 00:41:18.049
+presently exist. So once that
+mapping exists in the Argus OK
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4820-2
+00:41:18.049 --> 00:41:21.259
+then only it shall be able to
+update it because.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4838-0
+00:41:22.249 --> 00:41:27.483
+It has created a set of joins
+and created rows in August after
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4838-1
+00:41:27.483 --> 00:41:28.729
+importing only.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4849-0
+00:41:30.099 --> 00:41:34.029
+Okay. So if we look back at the
+the Word document.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4858-0
+00:41:35.569 --> 00:41:37.819
+Can we add some notes in here
+explaining this?
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4866-0
+00:41:38.799 --> 00:41:41.289
+Yes, yes, definitely I cannot
+die.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4881-0
+00:41:42.509 --> 00:41:45.409
+And the same for the the next
+one, the 182.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4889-0
+00:41:46.389 --> 00:41:47.709
+So I think that you're very
+soon.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4888-0
+00:41:46.419 --> 00:41:47.519
+Yeah. OK.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4905-0
+00:41:48.969 --> 00:41:53.493
+What is sort of, you know, no
+due to constraints of the out of
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4905-1
+00:41:53.493 --> 00:41:55.719
+the box logic, this only works.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4918-0
+00:41:56.549 --> 00:41:59.993
+When such and such is present or
+something, you know you know
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4918-1
+00:41:59.993 --> 00:42:01.049
+incoming like that.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4920-0
+00:42:00.329 --> 00:42:01.369
+Sure, my girl.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4932-0
+00:42:02.379 --> 00:42:06.529
+I I can do that and you know the
+situation in next next.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4939-0
+00:42:06.609 --> 00:42:09.159
+Is it if you wanted to do also
+right?
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4944-0
+00:42:09.709 --> 00:42:10.429
+It's similar.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4943-0
+00:42:10.169 --> 00:42:10.549
+So.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4957-0
+00:42:11.529 --> 00:42:14.881
+Yeah, it's it's kind of similar.
+Yeah, it has no date and
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4957-1
+00:42:14.881 --> 00:42:15.979
+reaction basically.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4960-0
+00:42:16.319 --> 00:42:17.329
+Where is that?
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4966-0
+00:42:18.919 --> 00:42:20.649
+They would also doesn't have
+drug.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4970-0
+00:42:21.169 --> 00:42:21.499
+Yeah.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4971-0
+00:42:21.439 --> 00:42:21.949
+Talk.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4977-0
+00:42:22.439 --> 00:42:24.909
+Reaction assessment block there
+either does it.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5004-0
+00:42:25.679 --> 00:42:29.617
+Right. So basically it doesn't
+have both the situation. First
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/4984-0
+00:42:26.599 --> 00:42:26.879
+Ohh.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5004-1
+00:42:29.617 --> 00:42:33.300
+is it doesn't have reaction at
+all and next is rejection,
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5004-2
+00:42:33.300 --> 00:42:33.999
+little man.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5013-0
+00:42:34.529 --> 00:42:35.639
+Yes, if you can mention.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5014-0
+00:42:34.649 --> 00:42:36.009
+So if it doesn't.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5023-0
+00:42:36.709 --> 00:42:38.049
+Yeah, will mention that.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5042-0
+00:42:37.639 --> 00:42:40.799
+With them, both of those things
+in the note and put the same
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5042-1
+00:42:40.799 --> 00:42:43.649
+note on both the the elements
+where the comments were.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5055-0
+00:42:47.259 --> 00:42:51.186
+Yeah, yeah. I don't know what,
+and you can verify it after
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5055-1
+00:42:51.186 --> 00:42:51.519
+that.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5057-0
+00:42:51.989 --> 00:42:52.279
+Right.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5062-0
+00:42:54.449 --> 00:42:55.449
+I just have.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5066-0
+00:42:56.099 --> 00:42:56.969
+This one is.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5069-0
+00:42:58.049 --> 00:43:00.269
+Uh, it's.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5078-0
+00:43:03.049 --> 00:43:06.879
+OK. The other one, regarding the
+this is.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5081-0
+00:43:07.629 --> 00:43:08.659
+J9 J, 10.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5123-0
+00:43:09.459 --> 00:43:14.755
+Yeah, Jen and Jen. So Michael,
+we followed up with Oracle
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5123-1
+00:43:14.755 --> 00:43:20.052
+earlier as as we discussed,
+yeah, they they raised a bug.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5100-0
+00:43:16.319 --> 00:43:17.309
+Yeah, I saw that.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5107-0
+00:43:19.069 --> 00:43:19.329
+Yeah.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5123-2
+00:43:20.052 --> 00:43:26.078
+And also we asked our Cardiff if
+they can provide any update like
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5123-3
+00:43:26.078 --> 00:43:26.809
+any any.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5179-0
+00:43:27.109 --> 00:43:31.564
+Ohh timeline or any update on
+that when this issue this bug
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5179-1
+00:43:31.564 --> 00:43:36.241
+will be resolved. Then they said
+that they they'll follow this
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5179-2
+00:43:36.241 --> 00:43:40.770
+process and it will be moved to
+some different team and then
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5179-3
+00:43:40.770 --> 00:43:45.373
+then they'll analyse and further
+work on it. So we don't have
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5179-4
+00:43:45.373 --> 00:43:49.159
+exactly exact time when when
+this can be verified.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5183-0
+00:43:49.849 --> 00:43:51.079
+Yeah, at least 2 years.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5192-0
+00:43:53.059 --> 00:43:56.399
+Ohh, so understood that that's
+not a problem.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5242-0
+00:43:57.779 --> 00:44:01.163
+Where instruct going to give
+some instructions the users who
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5242-1
+00:44:01.163 --> 00:44:04.326
+work on their cases and take it
+from there. But from the
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5210-0
+00:44:01.599 --> 00:44:02.769
+Right, nothing.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5242-2
+00:44:04.326 --> 00:44:07.766
+validation perspective, what's
+the next step? Cause I was the
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5231-0
+00:44:07.229 --> 00:44:07.869
+Yeah.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5242-3
+00:44:07.766 --> 00:44:11.039
+code, the requirements are
+already signed off in the UFOs.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5249-0
+00:44:12.379 --> 00:44:13.199
+That's right.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5258-0
+00:44:13.049 --> 00:44:16.759
+The cold the code is being
+implemented per the requirement.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5269-0
+00:44:18.039 --> 00:44:22.649
+That's fine, but what do we do?
+We where do we describe the?
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5296-0
+00:44:23.449 --> 00:44:27.360
+Oracle Bug and the essentially
+this can't be tested. Do we
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5296-1
+00:44:27.360 --> 00:44:31.404
+mention it in the traceability
+matrix? Do we mention it as a
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5296-2
+00:44:31.404 --> 00:44:33.989
+deviation or in the summary
+report or?
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5305-0
+00:44:35.309 --> 00:44:37.729
+I don't know. So we need to work
+out.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5306-0
+00:44:37.679 --> 00:44:38.099
+Ohh.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5330-0
+00:44:39.119 --> 00:44:44.119
+I think either in I don't know
+whether some traceability we can
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5310-0
+00:44:39.349 --> 00:44:39.809
+Yes.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5330-1
+00:44:44.119 --> 00:44:48.259
+detail out so much, but summer
+report is one option.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5343-0
+00:44:49.109 --> 00:44:52.669
+We can discuss with the Puneeth
+once where to mention this.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5335-0
+00:44:49.379 --> 00:44:49.599
+You.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5363-0
+00:44:53.249 --> 00:44:56.887
+Yeah, cause I mean traceability.
+Obviously if we know about the
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5363-1
+00:44:56.887 --> 00:44:59.559
+issue, we intentionally don't
+test it because.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5377-0
+00:45:00.539 --> 00:45:03.580
+Of the issue then, the
+traceability needs to mention
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5377-1
+00:45:03.580 --> 00:45:05.589
+the gap as to why it's not
+tested.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5394-0
+00:45:07.379 --> 00:45:11.683
+Yeah, being excel file, we can
+add one columns, comments,
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5394-1
+00:45:11.683 --> 00:45:14.429
+something of that sort for that
+and.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5399-0
+00:45:14.109 --> 00:45:16.199
+Yeah, I think there's generally
+a comments comma.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5408-0
+00:45:18.979 --> 00:45:20.989
+At all we can discuss with the
+Puneeth on this.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5422-0
+00:45:21.689 --> 00:45:24.869
+Yes. So what else can you do?
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5421-0
+00:45:22.799 --> 00:45:24.429
+Yeah. So for this document.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5459-0
+00:45:26.189 --> 00:45:30.299
+Microsoft, can we do one thing
+that maybe we can talk to Puneet
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5459-1
+00:45:30.299 --> 00:45:34.281
+on this and in Monday we can
+spare 5 minutes on this part and
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5459-2
+00:45:34.281 --> 00:45:38.134
+have a conclusion on this. So
+that as as is document can be
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5459-3
+00:45:38.134 --> 00:45:39.419
+moved forward right.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5488-0
+00:45:41.129 --> 00:45:45.093
+Yeah, I think I'm fine with the
+SSX document part here for this.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5471-0
+00:45:44.359 --> 00:45:44.799
+OK.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5488-1
+00:45:45.093 --> 00:45:48.874
+It's just a matter, Harrison
+said. We need to talk about this
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5478-0
+00:45:45.659 --> 00:45:46.369
+OK, OK.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5487-0
+00:45:48.649 --> 00:45:49.089
+Sure.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5488-2
+00:45:48.874 --> 00:45:49.179
+with.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5517-0
+00:45:50.519 --> 00:45:54.717
+So what we can do is Rahul we
+can just update action item and
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5494-0
+00:45:50.639 --> 00:45:51.409
+Validation.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5517-1
+00:45:54.717 --> 00:45:59.050
+you know the track it in that.
+So that either summary report or
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5515-0
+00:45:57.639 --> 00:45:58.729
+Fun time, yeah.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5517-2
+00:45:59.050 --> 00:45:59.389
+yeah.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5519-0
+00:46:01.109 --> 00:46:01.439
+OK.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5528-0
+00:46:01.929 --> 00:46:03.069
+Yes, sure.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5534-0
+00:46:02.629 --> 00:46:05.529
+That way you know the SSX can be
+taken forward.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5536-0
+00:46:06.159 --> 00:46:06.349
+Yeah.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5546-0
+00:46:06.779 --> 00:46:09.159
+Chromosome. That's fine. Thank
+you.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5548-0
+00:46:10.849 --> 00:46:11.429
+Ohh.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5561-0
+00:46:12.269 --> 00:46:14.798
+Nothing. The only other one was
+you need to send me some
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5561-1
+00:46:14.798 --> 00:46:16.129
+evidence of the email testing.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5584-0
+00:46:16.649 --> 00:46:20.797
+Yes, yes, my dear. So we'll
+share that while separate mail
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5584-1
+00:46:20.797 --> 00:46:25.156
+KR team is pulling things out
+and will be sharing it with you
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5580-0
+00:46:23.549 --> 00:46:24.169
+Because we have.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5584-2
+00:46:25.156 --> 00:46:25.719
+shortly.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5596-0
+00:46:26.849 --> 00:46:29.898
+Cause we haven't received any
+emails from the debt environment
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5596-1
+00:46:29.898 --> 00:46:30.479
+on our side.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5605-0
+00:46:32.439 --> 00:46:35.389
+Ohh, my God. Yeah, yeah, this
+this has been noted and.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5631-0
+00:46:36.249 --> 00:46:40.104
+We have circulated this in our
+entire team and they'll they are
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5631-1
+00:46:40.104 --> 00:46:43.898
+providing the results and will
+send you a consolidated mail on
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5631-2
+00:46:43.898 --> 00:46:44.199
+that.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5638-0
+00:46:44.779 --> 00:46:46.809
+OK, you think that will be done
+today?
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5648-0
+00:46:50.639 --> 00:46:53.639
+Sure. I'll check with him. My
+dad and radio.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5660-0
+00:46:54.339 --> 00:46:57.052
+Okay, if not today then drop me
+an email letting letting us know
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5660-1
+00:46:57.052 --> 00:46:57.929
+when it's gonna come.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5663-0
+00:46:58.889 --> 00:46:59.639
+Sure, sure.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5665-0
+00:47:02.149 --> 00:47:02.729
+And.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5674-0
+00:47:03.399 --> 00:47:05.579
+This is what we have already
+talked.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5678-0
+00:47:06.199 --> 00:47:06.719
+Yeah.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5684-0
+00:47:07.169 --> 00:47:09.799
+Yeah, I saw you close to
+comments.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5690-0
+00:47:10.199 --> 00:47:11.069
+Yeah, I'm through.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5730-0
+00:47:12.189 --> 00:47:18.212
+Okay so this is the beginning of
+document then and thanks Michael
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5730-1
+00:47:18.212 --> 00:47:24.235
+for putting the entire list food
+list mapping and the in that and
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5730-2
+00:47:24.235 --> 00:47:29.710
+I'll I'll update the RDB version
+and all that you mentioned
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5730-3
+00:47:29.710 --> 00:47:33.999
+earlier that I'll I'll update
+that as well so.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5724-0
+00:47:30.099 --> 00:47:30.429
+Yeah.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5749-0
+00:47:34.319 --> 00:47:38.218
+And we need to make sure that
+that the the IQ gets the
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5740-0
+00:47:36.309 --> 00:47:36.699
+OK.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5749-1
+00:47:38.218 --> 00:47:40.629
+codeless mapping updates into
+it.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5752-0
+00:47:41.649 --> 00:47:42.289
+Yes, yes.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5757-0
+00:47:42.879 --> 00:47:43.129
+Yeah.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5756-0
+00:47:43.289 --> 00:47:43.589
+Sure.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5759-0
+00:47:45.289 --> 00:47:45.719
+Okay.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5776-0
+00:47:45.729 --> 00:47:49.145
+Ohh sorry sorry. Sorry sorry
+Michael. The last thing that you
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5776-1
+00:47:49.145 --> 00:47:51.789
+mentioned IQ gets the code list
+mapping update.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5782-0
+00:47:53.509 --> 00:47:54.659
+So the the.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5803-0
+00:47:54.089 --> 00:47:57.493
+So we we need to have it in the
+populated in the system also. So
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5803-1
+00:47:57.493 --> 00:48:00.059
+that's what you are mentioning,
+right? Yeah. OK.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5796-0
+00:47:57.929 --> 00:47:58.299
+Yet.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5802-0
+00:47:59.339 --> 00:47:59.759
+Yeah.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5810-0
+00:48:02.689 --> 00:48:04.309
+Hi, Michael. Yeah, we'll work on
+that.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5828-0
+00:48:05.129 --> 00:48:09.213
+We have, we had it in our list
+and we'll work on it to update
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5828-1
+00:48:09.213 --> 00:48:11.519
+system as per the provided
+cheats.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5831-0
+00:48:12.159 --> 00:48:12.869
+OK, great.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5837-0
+00:48:14.479 --> 00:48:16.759
+I'll just mention a note over
+there.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5864-0
+00:48:18.829 --> 00:48:23.905
+Maybe I I'll have it in mind.
+So, Michael, I guess these were
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5864-1
+00:48:23.905 --> 00:48:28.736
+all the moments that we that we
+provided in interface St 6
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5864-2
+00:48:28.736 --> 00:48:29.719
+document so.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5910-0
+00:48:29.819 --> 00:48:35.099
+Yeah. So wait for you for you to
+update on those 2 items. We need
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5910-1
+00:48:35.099 --> 00:48:39.819
+181 before we do that. So the 2
+items, 180 and 182, you'll
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5891-0
+00:48:39.039 --> 00:48:39.519
+Yeah.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5910-2
+00:48:39.819 --> 00:48:44.619
+update the notes. There was
+another comment there about the
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5910-3
+00:48:44.619 --> 00:48:45.899
+issue 20 and 21.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5915-0
+00:48:46.919 --> 00:48:48.219
+Yeah, yeah, right, right.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5924-0
+00:48:48.389 --> 00:48:50.519
+Gonna start, we sort of cluster.
+We jumped.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5926-0
+00:48:51.579 --> 00:48:51.889
+Yeah.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5941-0
+00:48:52.479 --> 00:48:57.679
+Here so 2020 and 21 were the,
+you know, the system wasn't
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5941-1
+00:48:57.679 --> 00:49:00.189
+working per the requirement.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5956-0
+00:49:01.799 --> 00:49:04.264
+They were just code bugs and
+there was number impact on this
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5956-1
+00:49:04.264 --> 00:49:05.799
+document. Is that what you're
+saying?
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5965-0
+00:49:07.279 --> 00:49:10.529
+This issue 20 improvement from
+the issue log items.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5984-0
+00:49:10.439 --> 00:49:13.800
+Yeah, they were from like the
+the early the first round of
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5972-0
+00:49:12.059 --> 00:49:12.329
+OK.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5978-0
+00:49:13.409 --> 00:49:13.719
+I.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5984-1
+00:49:13.800 --> 00:49:15.509
+testing we did for siren, the.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5991-0
+00:49:16.479 --> 00:49:19.839
+Yeah, I'll. I'll open them with
+you. I have them.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/5994-0
+00:49:26.059 --> 00:49:26.749
+You know this was.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6024-0
+00:49:30.669 --> 00:49:35.056
+And there was this 20, this
+funny era that also came up in
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6024-1
+00:49:35.056 --> 00:49:39.295
+some testing for licensed
+partner, I think. And then you
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6024-2
+00:49:39.295 --> 00:49:42.939
+fixed it and then set 21 is more
+detailed about.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6031-0
+00:49:43.659 --> 00:49:47.269
+Um particular data, not mapping.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6039-0
+00:49:50.799 --> 00:49:52.469
+And then you fixed it and then
+it worked.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6058-0
+00:49:54.169 --> 00:49:57.371
+Why don't have any insight into
+what was fixed on either of
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6058-1
+00:49:57.371 --> 00:50:00.199
+these issues? So I don't know if
+there's any impact.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6068-0
+00:50:01.849 --> 00:50:04.779
+Michael, I'll I'll check this
+issues and.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6096-0
+00:50:05.729 --> 00:50:09.718
+And update it in the command
+like what we actually fixed OK
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6082-0
+00:50:09.049 --> 00:50:09.419
+OK.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6096-1
+00:50:09.718 --> 00:50:13.441
+and if needed then I'll update
+the update. Tested since
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6096-2
+00:50:13.441 --> 00:50:14.239
+document OK.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6099-0
+00:50:14.659 --> 00:50:14.999
+OK.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6103-0
+00:50:15.649 --> 00:50:16.929
+Good. What must I?
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6111-0
+00:50:23.489 --> 00:50:25.239
+Help your mother, huh? Anything
+else?
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6133-0
+00:50:26.559 --> 00:50:31.928
+Thanks, Michael. So I think we
+are almost there. So the next
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6119-0
+00:50:30.059 --> 00:50:30.229
+It.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6133-1
+00:50:31.928 --> 00:50:35.009
+day is the Argos SSX, I hope
+once.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6135-0
+00:50:35.519 --> 00:50:36.449
+That's tough one.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6152-0
+00:50:40.269 --> 00:50:44.917
+Yeah, trying to clear one one so
+that we are good for the
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6139-0
+00:50:40.289 --> 00:50:40.679
+Yeah.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6152-1
+00:50:44.917 --> 00:50:45.799
+validation.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6161-0
+00:50:45.049 --> 00:50:49.879
+So sorry, you know I send. Can
+I? Can I talk?
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6165-0
+00:50:50.199 --> 00:50:51.029
+Shut shut what?
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6168-0
+00:50:51.669 --> 00:50:53.079
+Yeah, actually.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6208-0
+00:50:56.339 --> 00:51:01.853
+Michael I I realised like there
+was a code change in this
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6208-1
+00:51:01.853 --> 00:51:07.461
+OK&amp;RS got approved in in
+first week of April and we we
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6208-2
+00:51:07.461 --> 00:51:11.169
+fixed this part. I think earlier
+only.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6227-0
+00:51:12.509 --> 00:51:16.662
+So that yeah, that's the reason
+that it's already captured in
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6214-0
+00:51:12.589 --> 00:51:13.089
+Ohh, I said.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6227-1
+00:51:16.662 --> 00:51:18.069
+this year s document.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6241-0
+00:51:20.169 --> 00:51:24.009
+I'll I'll still confirm like
+what was the issue and what we
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6241-1
+00:51:24.009 --> 00:51:24.649
+fixed, OK.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6245-0
+00:51:25.279 --> 00:51:26.049
+Okay, thank you.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6248-0
+00:51:27.219 --> 00:51:27.699
+Thank you.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6255-0
+00:51:31.999 --> 00:51:33.609
+Tell him when I was sending
+them, but.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6257-0
+00:51:35.999 --> 00:51:36.389
+No.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6259-0
+00:51:36.989 --> 00:51:37.209
+Ohh.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6262-0
+00:51:40.119 --> 00:51:41.439
+So on the.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6266-0
+00:51:42.239 --> 00:51:43.749
+Actually front Michael.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6273-0
+00:51:46.809 --> 00:51:49.969
+Other than Taiwan or related?
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6280-0
+00:51:51.219 --> 00:51:53.929
+Things any other pending.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6277-0
+00:51:52.139 --> 00:51:52.529
+Yes.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6288-0
+00:51:54.679 --> 00:51:57.309
+I believe no, but just wanted to
+confirm.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6293-0
+00:52:02.929 --> 00:52:04.359
+I also believe no.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6297-0
+00:52:04.479 --> 00:52:06.149
+Ohh, hang on a second.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6299-0
+00:52:06.499 --> 00:52:06.799
+What's?
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6304-0
+00:52:14.689 --> 00:52:15.859
+Just looking for a list.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6306-0
+00:52:19.249 --> 00:52:19.579
+Sure.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6313-0
+00:52:28.299 --> 00:52:30.459
+That's Korea email
+configuration.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6333-0
+00:52:32.249 --> 00:52:35.596
+But that's like tied to Taiwan
+in a in a sense, if we haven't
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6333-1
+00:52:35.596 --> 00:52:38.727
+got Taiwan working, we've got no
+chance of getting career
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6333-2
+00:52:38.727 --> 00:52:39.159
+working.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6335-0
+00:52:40.649 --> 00:52:40.889
+Ohh.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6338-0
+00:52:49.509 --> 00:52:49.959
+Done.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6355-0
+00:52:54.589 --> 00:52:58.645
+So just to summarise this
+Taiwan, we are able to send to
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6345-0
+00:52:55.419 --> 00:52:55.749
+On the.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6355-1
+00:52:58.645 --> 00:52:59.499
+them, right?
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6362-0
+00:53:01.259 --> 00:53:02.789
+Yes, sure. I will send emails.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6386-0
+00:53:04.979 --> 00:53:07.934
+But there was a lot of emails
+kind the other day, apparently
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6386-1
+00:53:07.934 --> 00:53:11.035
+due to some bug and some testing
+and stuff, so I'm retesting it
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6386-2
+00:53:11.035 --> 00:53:12.149
+trying to retest today.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6385-0
+00:53:11.129 --> 00:53:12.309
+Yes. Yeah.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6397-0
+00:53:13.359 --> 00:53:16.729
+On the inbound email parts, also
+trying to test today.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6390-0
+00:53:13.399 --> 00:53:14.069
+So.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6399-0
+00:53:17.409 --> 00:53:17.739
+OK.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6419-0
+00:53:18.469 --> 00:53:22.112
+So once you confirm then I hope
+we can move, you know the if it
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6419-1
+00:53:22.112 --> 00:53:25.299
+is, you know the satisfies our
+requirement then we can.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6422-0
+00:53:26.489 --> 00:53:27.659
+Set it for scoria.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6426-0
+00:53:28.309 --> 00:53:29.339
+Yeah, yeah, yeah.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6432-0
+00:53:32.099 --> 00:53:34.089
+And the other thing the.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6445-0
+00:53:35.399 --> 00:53:40.316
+Connectivity from move it to the
+in and out folders needs to be
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6445-1
+00:53:40.316 --> 00:53:41.699
+worked on I think.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6456-0
+00:53:42.689 --> 00:53:45.739
+So this will set up the move
+that thing, but I'm not quite
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6456-1
+00:53:45.739 --> 00:53:46.049
+clear.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6474-0
+00:53:46.949 --> 00:53:50.517
+If that's working all correctly
+yet, so I puts it quite a few
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6474-1
+00:53:50.517 --> 00:53:52.129
+comments on that in the CBD.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6476-0
+00:53:54.929 --> 00:53:55.399
+Okay.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6483-0
+00:53:56.399 --> 00:53:58.239
+Ohh what time?
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6490-0
+00:53:57.679 --> 00:54:01.459
+But some difference destinations
+like swissmedic for example.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6500-0
+00:54:03.789 --> 00:54:06.219
+Instead of using axway it should
+use move it.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6529-0
+00:54:08.419 --> 00:54:12.167
+So hopefully you know between
+the CBD and once we get the
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6529-1
+00:54:12.167 --> 00:54:16.108
+appendix for the 80s X with the
+details in it, then we'll be
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6529-2
+00:54:16.108 --> 00:54:17.659
+able to figure that out.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6532-0
+00:54:20.049 --> 00:54:20.719
+Yeah, but.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6545-0
+00:54:22.549 --> 00:54:26.932
+Ohh it is what I'm thinking is
+move it I understand but
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6545-1
+00:54:26.932 --> 00:54:28.419
+actually switching.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6548-0
+00:54:28.929 --> 00:54:29.919
+Ohh.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6550-0
+00:54:29.309 --> 00:54:30.709
+Yeah, yeah, yeah.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6557-0
+00:54:32.189 --> 00:54:33.869
+Here's what I'm thinking from
+uh.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6561-0
+00:54:34.849 --> 00:54:36.099
+Sometime next week maybe.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6563-0
+00:54:36.739 --> 00:54:36.989
+Yeah.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6578-0
+00:54:39.159 --> 00:54:41.593
+Because we have to raise ticket
+and then, you know, they get
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6578-1
+00:54:41.593 --> 00:54:43.389
+things done. So again there will
+be some SL.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6575-0
+00:54:42.339 --> 00:54:42.599
+Ohh.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6583-0
+00:54:44.729 --> 00:54:46.719
+Yeah, OK, well, let's.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6599-0
+00:54:47.569 --> 00:54:51.608
+Hopefully get this Taiwan stuff
+done and then we can set the
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6599-1
+00:54:51.608 --> 00:54:51.939
+date.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6609-0
+00:54:52.589 --> 00:54:55.977
+Yeah, because in Calster data
+center, everything moves on
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6609-1
+00:54:55.977 --> 00:54:56.269
+Slas.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6614-0
+00:54:57.009 --> 00:54:57.559
+Which are in.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6620-0
+00:54:58.979 --> 00:55:00.049
+Not in our control.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6625-0
+00:55:00.899 --> 00:55:02.929
+Who is this? I'll strip to
+escalate.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6638-0
+00:55:04.829 --> 00:55:08.613
+So it is like it. I am
+escalating everything alternate
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6638-1
+00:55:08.613 --> 00:55:09.439
+day to trip.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6649-0
+00:55:12.469 --> 00:55:14.977
+Ohh I'll have a call with him
+next Tuesday as well. Just
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6649-1
+00:55:14.977 --> 00:55:15.329
+quickly.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6651-0
+00:55:15.799 --> 00:55:17.609
+Sure. Thank you.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6668-0
+00:55:19.859 --> 00:55:23.479
+OK, no nothing else for now.
+Back to document reviews.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6667-0
+00:55:20.259 --> 00:55:23.259
+OK, OK then so you can nothing
+else, right?
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6674-0
+00:55:24.029 --> 00:55:26.409
+Yeah, thank you. I don't think.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6680-0
+00:55:27.159 --> 00:55:28.849
+Anything pending for now?
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6682-0
+00:55:29.629 --> 00:55:29.849
+Yeah.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6689-0
+00:55:31.409 --> 00:55:32.319
+Thanks everyone. Bye.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6698-0
+00:55:31.799 --> 00:55:33.599
+Thank you. Have a good day. Bye
+bye.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6696-0
+00:55:32.719 --> 00:55:33.549
+OK, bye.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6702-0
+00:55:33.719 --> 00:55:35.419
+You're ready time.
+
+d68b59b1-a586-4c61-a8e1-955ec5fb9a4a/6705-0
+00:55:35.679 --> 00:55:36.199
+Thank you.
